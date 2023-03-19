@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace exercicio_POO_socio_e_dependente
 {
-	internal class Socio
+	public class Socio
 	{
 		public int NumeroDaCota { get; set; }
 		public string NomeDoSocio { get; set; }
@@ -23,13 +23,13 @@ namespace exercicio_POO_socio_e_dependente
 			Console.WriteLine("Número da Cota:");
 			NumeroDaCota = int.Parse(Console.ReadLine());
 			
-			Console.WriteLine("Nome do Sócio: ");
+			Console.WriteLine("\nNome do Sócio: ");
 			NomeDoSocio = Console.ReadLine();
 			
-			Console.WriteLine("Data de Nascimento: ");
+			Console.WriteLine("\nData de Nascimento: ");
 			DataNasc = Console.ReadLine();
 			
-			Console.WriteLine("Data de Aquisição: ");
+			Console.WriteLine("\nData de Aquisição: ");
 			DataAquisicao = Console.ReadLine();
 		}
 	}

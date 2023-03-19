@@ -1,0 +1,8 @@
+D:\Users\naitr\Documentos\Projetos\C#\exercicio POO socio e dependente\exercicio POO socio e dependente\bin\Debug\exercicio POO socio e dependente.exe.config
+D:\Users\naitr\Documentos\Projetos\C#\exercicio POO socio e dependente\exercicio POO socio e dependente\bin\Debug\exercicio POO socio e dependente.exe
+D:\Users\naitr\Documentos\Projetos\C#\exercicio POO socio e dependente\exercicio POO socio e dependente\bin\Debug\exercicio POO socio e dependente.pdb
+D:\Users\naitr\Documentos\Projetos\C#\exercicio POO socio e dependente\exercicio POO socio e dependente\obj\Debug\exercicio POO socio e dependente.csproj.AssemblyReference.cache
+D:\Users\naitr\Documentos\Projetos\C#\exercicio POO socio e dependente\exercicio POO socio e dependente\obj\Debug\exercicio POO socio e dependente.csproj.SuggestedBindingRedirects.cache
+D:\Users\naitr\Documentos\Projetos\C#\exercicio POO socio e dependente\exercicio POO socio e dependente\obj\Debug\exercicio POO socio e dependente.csproj.CoreCompileInputs.cache
+D:\Users\naitr\Documentos\Projetos\C#\exercicio POO socio e dependente\exercicio POO socio e dependente\obj\Debug\exercicio POO socio e dependente.exe
+D:\Users\naitr\Documentos\Projetos\C#\exercicio POO socio e dependente\exercicio POO socio e dependente\obj\Debug\exercicio POO socio e dependente.pdb
